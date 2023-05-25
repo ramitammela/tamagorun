@@ -13,6 +13,7 @@ Download at: +will be added soon+
 
 ##
 
+
 ###### Features
 Title Screen, Level Select Screen, 1 Game Level (wip) + Bonus Level, 5 x different enemy types
 
@@ -28,7 +29,7 @@ Pause Screen / Game Over Screen / Level Complete Screen
 Walk & Run  
 Short & Long jump  
 Flying (balloon)
-Animations: Idle, Walk/run, jump, landing, falling  
+Animations: Idle, Walk/Run, Jump, Landing, Falling, Lose  
 
 **Enemy**  
 Enemy Basic - (Kangaroo) Runs Left & Right and jumps  
@@ -46,6 +47,9 @@ Start = Pause
 
 ##
 
+###### Video: Gameplay
+https://github.com/ramitammela/tamagorun/assets/33514265/35525435-e7c2-4ba2-9595-835cdf9cad19
+
 ###### Image: Gameplay Screenshots
 ![tamagorun](https://github.com/ramitammela/tamagorun/assets/33514265/9ed8e34f-e465-4c81-b268-508bcd59450d)
 
@@ -57,8 +61,5 @@ Start = Pause
 
 ###### Image: Enemy Characters (4/5 done)
 ![tamagorun_enemy](https://github.com/ramitammela/tamagorun/assets/33514265/5abb447a-d071-44db-8eb5-2166daaeceba)
-
-
-
 
 ##
