@@ -8,7 +8,8 @@
 
 Game is work in progress. Project has at the moment main menu, level select and 1 game level for testing. Game has 5 type of enemy, bonus level and collectibles
 
-Download at: +will be added soon+
+**Download - APK File**  
+Download at: [Google Drive](https://drive.google.com/file/d/1Go5AlTR2Y4bN4Sx6OBQgZn7_6SFRa8af/view?usp=share_link) - https://drive.google.com/file/d/1Go5AlTR2Y4bN4Sx6OBQgZn7_6SFRa8af/view?usp=share_link
 
 
 ##
